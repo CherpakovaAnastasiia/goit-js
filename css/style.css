@@ -1,0 +1,18 @@
+.box {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.item-red {
+    background-color: red;
+}
+
+.item-green {
+    background-color: green;
+}
+
+.item-black {
+    background-color: black;
+}
